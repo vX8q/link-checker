@@ -1,0 +1,68 @@
+{
+  "1": {
+    "id": 1,
+    "links": [
+      "google.com",
+      "malformedlink.gg"
+    ],
+    "result": {
+      "google.com": "available",
+      "malformedlink.gg": "checking"
+    }
+  },
+  "2": {
+    "id": 2,
+    "links": [
+      "google.com",
+      "malformedlink.gg"
+    ],
+    "result": {
+      "google.com": "available",
+      "malformedlink.gg": "checking"
+    }
+  },
+  "3": {
+    "id": 3,
+    "links": [
+      "google.com",
+      "malformedlink.gg"
+    ],
+    "result": {
+      "google.com": "available",
+      "malformedlink.gg": "not available"
+    }
+  },
+  "4": {
+    "id": 4,
+    "links": [
+      "gg.c",
+      "yandex.ru"
+    ],
+    "result": {
+      "gg.c": "not available",
+      "yandex.ru": "available"
+    }
+  },
+  "5": {
+    "id": 5,
+    "links": [
+      "google.com",
+      "malformedlink.gg"
+    ],
+    "result": {
+      "google.com": "available",
+      "malformedlink.gg": "not available"
+    }
+  },
+  "6": {
+    "id": 6,
+    "links": [
+      "gg.c",
+      "yandex.ru"
+    ],
+    "result": {
+      "gg.c": "not available",
+      "yandex.ru": "available"
+    }
+  }
+}
